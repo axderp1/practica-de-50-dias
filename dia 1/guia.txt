@@ -1,0 +1,4 @@
+dia 1 del reto empiezo el viaje con una ejercicio de cartas expandibles 
+donde colocolo cada lenguaje o sintaxis done e echo al menos un HOLA MUNDO.
+
+python,php,html,css,javascript,c#.

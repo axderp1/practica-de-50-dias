@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(29, 31, 41);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+}
+.conjunto{
+    width: 90vw;
+    display: flex;
+}
+
+.conjunto .n1 img{
+    flex: 5;
+
+}
+.n1 img{
+    height: 75vh;
+    border-radius: 50px;
+    width: auto;
+    margin-right: 4vw;
+ 
+
+}
+img{
+    height: 80vh;
+    width: 0%;
+    border-radius: 50px;
+ 
+    
+}
+.pita{
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    cursor: pointer;
+    position: relative;
+    height: 80vh;
+    border-radius: 50px;
+    flex: 0.5;
+    margin: 10px;
+}
+.ht{
+    background: #F27619;
+}
+.js{
+    background: #F7DE1D;
+}
+.py{
+    background: #122B60;
+}
+.cs{
+    background: #157ACC;
+}
